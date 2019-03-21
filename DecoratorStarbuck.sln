@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorStarbuck.DataAccess", "DecoratorStarbuck.DataAccess\DecoratorStarbuck.DataAccess.csproj", "{4161D8EC-B871-42F9-A9C1-15DA0087FEF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorStarbuck.Common", "DecoratorStarbuck.Common\DecoratorStarbuck.Common.csproj", "{8B4C77A8-B77E-456E-9020-D8DD085A383C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorStarbuck.Services", "DecoratorStarbuck.Services\DecoratorStarbuck.Services.csproj", "{D568F5C7-E4BD-48F0-A5F7-E9235B44975F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4161D8EC-B871-42F9-A9C1-15DA0087FEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4161D8EC-B871-42F9-A9C1-15DA0087FEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4161D8EC-B871-42F9-A9C1-15DA0087FEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4C77A8-B77E-456E-9020-D8DD085A383C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4C77A8-B77E-456E-9020-D8DD085A383C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4C77A8-B77E-456E-9020-D8DD085A383C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4C77A8-B77E-456E-9020-D8DD085A383C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D568F5C7-E4BD-48F0-A5F7-E9235B44975F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D568F5C7-E4BD-48F0-A5F7-E9235B44975F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D568F5C7-E4BD-48F0-A5F7-E9235B44975F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D568F5C7-E4BD-48F0-A5F7-E9235B44975F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
